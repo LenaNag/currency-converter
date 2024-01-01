@@ -30,3 +30,11 @@
     width: 100%;
     max-width: 200px;
 }
+
+.form__button {
+    width: 100%;
+    background-color: hsl(180, 52%, 77%);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
