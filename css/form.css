@@ -1,3 +1,10 @@
 .form {
     padding: 5px;
 }
+
+.form__fieldset {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0;
+}
