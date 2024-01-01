@@ -8,3 +8,10 @@
     padding: 20px;
     margin: 20px 0;
 }
+
+.form__legend {
+    width: 140px;
+    border-radius: 5px;
+    background-color: hsl(180, 52%, 77%);
+    padding: 10px;
+}
